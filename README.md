@@ -1,5 +1,4 @@
 # KeyWord Extraction
-This page contain materials on the keyword extraction research.
 ## Publications
 
 ## Text annotation tool
